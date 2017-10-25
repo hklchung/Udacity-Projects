@@ -6,3 +6,4 @@ The following projects are aimed at developing practical experience on the imple
 3) Finding Donors - Support Vector Machines
 4) Image Processing (Eigenfaces) - Principal Component Analysis
 5) Customer Segments - Principal Component Analysis and K-Means Clustering
+6) Dog Image Classifier - Convolutional Neural Network and Transfer Learning
